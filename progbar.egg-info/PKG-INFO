@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: progbar
+Version: 0.0.1
+Summary: A simple progress bar.
+Home-page: https://github.com/dirkwind/progbar/
+Author: Harry Heitmeier
+Author-email: dirkwind707@gmail.com
+License: UNKNOWN
+Description: # progbar
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
